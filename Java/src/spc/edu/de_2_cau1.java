@@ -25,7 +25,7 @@ public class de_2_cau1 {
         System.out.println("day so fibonacci la : ");
         for (int i = 0; i < c; i++) {
             ds.add(a);
-            System.out.println(a + " ");
+            System.out.println( " " + a);
             int next = a + b;
             a = b;
             b = next;
